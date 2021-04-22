@@ -9,7 +9,8 @@
 <b>Step 2.</b> Install Node https://nodejs.org/en/
 <br/><br/>
 <b>Step 3.</b> Install App Depdendencies 
-<pre>npm install</pre>
+
+`npm install`
 <br/><br/>
 <b>Step 4.</b> Create a new free object storage repository on IBM Cloud <a href="https://cloud.ibm.com/objectstorage/create">Create Cloud Object Storage Bucket</a> 
 <br/><br/>
@@ -35,7 +36,7 @@ This URI is available from your bucket. Select the model.json file then choose o
 <b>Step 10.</b> Update the labelmap inside of utilities.js with your labels.</a> 
 <br/><br/>
 <b>Step 11.</b> Start the app by running npm start.</a> 
-<pre>npm start</pre>
+`npm start`
 <br/><br/>
 
 
