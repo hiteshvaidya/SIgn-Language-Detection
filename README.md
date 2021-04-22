@@ -96,5 +96,6 @@ cv2_imshow(image_np_with_detections)
 #     break
 ```
 The output was as follows,
+
 ![live output](https://github.com/hiteshvaidya/Sign-Language-Detection/blob/main/images/live%20output.png)
 
