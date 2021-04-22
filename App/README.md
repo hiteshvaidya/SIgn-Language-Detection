@@ -1,5 +1,5 @@
 # Tensorflow Object Detection React Application
-<p>This template app can be used for real time object detection by leveraging the Tensorflow Object Detection API, React and Tensorflow JS. In order to leverage this template, first complete the work mentioned in ![main directory](https://github.com/hiteshvaidya/Sign-Language-Detection). Complete the Notebook up to Step 11. Conversion to TFJS.  
+<p>This template app can be used for real time object detection by leveraging the Tensorflow Object Detection API, React and Tensorflow JS. In order to leverage this template, first complete the work mentioned in [main directory](https://github.com/hiteshvaidya/Sign-Language-Detection). Complete the Notebook up to Step 11. Conversion to TFJS.  
 
 ## Steps
 <br />
