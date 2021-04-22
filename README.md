@@ -99,3 +99,5 @@ The output was as follows,
 
 ![live output](https://github.com/hiteshvaidya/Sign-Language-Detection/blob/main/images/live%20output.png)
 
+### Shipping to production
+You may follow the code given in other ![directory](https://github.com/hiteshvaidya/Sign-Language-Detection/tree/main/App) for shipping this code to production
