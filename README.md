@@ -1,6 +1,8 @@
 # Sign-Language-Detection
 This program detects various hand gestures captured through video input
 
+![live output](https://github.com/hiteshvaidya/Sign-Language-Detection/blob/main/images/live%20output.png)
+
 ### Introduction
 Sign language detection is an interesting problem with real-time application. In this repository, we see how we can detect a hand gesture using deep learning. Following are some of the highlights of this project.
 - Create a small dataset of images captured through a webcam
@@ -95,9 +97,7 @@ cv2_imshow(image_np_with_detections)
 #     cv2.destroyAllWindows()
 #     break
 ```
-The output was as follows,
-
-![live output](https://github.com/hiteshvaidya/Sign-Language-Detection/blob/main/images/live%20output.png)
+The output is as shown in the topmost picture of this README,
 
 ### Shipping to production
 You may follow the code given in other [directory](https://github.com/hiteshvaidya/Sign-Language-Detection/tree/main/App) for shipping this code to production
