@@ -101,3 +101,6 @@ The output is as shown in the topmost picture of this README,
 
 ### Shipping to production
 You may follow the code given in other [directory](https://github.com/hiteshvaidya/Sign-Language-Detection/tree/main/App) for shipping this code to production
+
+### Credits
+![Nicholas Renotte](https://github.com/nicknochnack)
